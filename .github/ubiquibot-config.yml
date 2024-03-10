@@ -25,23 +25,23 @@ priorityLabels:
   - name: "Priority: 5 (Emergency)"
 commandSettings:
   - name: "start"
-    enabled: false
+    enabled: true
   - name: "stop"
-    enabled: false
+    enabled: true
   - name: "wallet"
-    enabled: false
+    enabled: true
   - name: "payout"
-    enabled: false
+    enabled: true
   - name: "multiplier"
-    enabled: false
+    enabled: true
   - name: "query"
-    enabled: false
+    enabled: true
   - name: "ask"
-    enabled: false
+    enabled: true
   - name: "allow"
-    enabled: false
+    enabled: true
   - name: "autopay"
-    enabled: false
+    enabled: true
 incentives:
   comment:
     elements: {}
